@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I’m Rima Aguel</h1>
+<h1 align="center"> Hi, I’m Rima Aguel</h1>
 <p align="center">
   Electrical & Automation Engineer | Embedded Systems & IoT | Industrial Automation | AI
 </p>
@@ -13,7 +13,7 @@
 
 <!-- Email -->
 <p align="center">
-   You can contact me at<a href="mailto:rima.aguel@gmail.com">rima.aguel@gmail.com</a>
+   You can contact me at <a href="mailto:rima.aguel@gmail.com">rima.aguel@gmail.com</a>
 </p>
 
 ---
