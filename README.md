@@ -1,6 +1,23 @@
-# Hi, I’m Rima Aguel 👋
+<!-- Header -->
+<h1 align="center">👋 Hi, I’m Rima Aguel</h1>
+<p align="center">
+  Electrical & Automation Engineer | Embedded Systems & IoT | Industrial Automation | AI
+</p>
 
-Electrical & Automation Engineer | Embedded Systems | IoT | Industrial Automation | PCB Design | AI
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rimaaguel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/RimaAguel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:rima.aguel@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
 
 I design and develop **intelligent, high-performance hardware-software systems**. I specialize in embedded systems, multi-sensor IoT architectures, industrial automation, and AI integration.
 
