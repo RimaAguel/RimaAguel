@@ -6,11 +6,8 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rimaaguel" target="_blank">
+  <a href="https://www.linkedin.com/in/rima-aguel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RimaAguel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:rima.aguel@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -67,5 +64,3 @@ I design and develop **intelligent, high-performance hardware-software systems**
 |-------------------|-------------------------------------|
 | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) | Embedded GUI development             |
 | ![TouchGFX](https://img.shields.io/badge/TouchGFX-007396?style=flat) | High-performance embedded UIs       |
-
----
