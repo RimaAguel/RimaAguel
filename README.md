@@ -13,7 +13,7 @@
 
 <!-- Email -->
 <p align="center">
-   You can contact me at <a href="mailto:rimaaguel@gmail.com">rima.aguel@gmail.com</a>
+   You can contact me at <a href="mailto:rimaaguel@gmail.com">rimaaguel@gmail.com</a>
 </p>
 
 ---
