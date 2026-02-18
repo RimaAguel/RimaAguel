@@ -1,29 +1,22 @@
-Hi there 👋
+## Hi, I’m Rima Aguel
 
-I’m Rima Aguel, an Electrical & Automation Engineer specialized in embedded systems, industrial automation, IoT architectures, PCB design, and AI-driven systems.
+Electrical & Automation Engineer specialized in embedded systems, IoT, industrial automation, PCB design, and AI-driven systems.
 
-I design and develop intelligent hardware–software solutions, combining electronics, control systems, and machine learning to build efficient, reliable, and scalable technologies.
+### 🔹 Core Expertise
+- Embedded systems: STM32, ESP32, ARM Cortex
+- Industrial automation & real-time control
+- IoT architectures & edge computing
+- Multi-layer PCB design & signal integrity
+- AI integration in embedded & industrial systems
 
-🔭 What I Do
+### 🔹 Skills
+**Programming:** C, C++, Python  
+**Hardware:** PCB design, analog/digital circuits, power electronics  
+**Communication:** UART, SPI, I2C, CAN, Modbus, MQTT  
+**AI:** Machine Learning, Deep Learning, sensor data fusion
 
-Embedded systems development (STM32, ESP32, ARM-based MCUs)
+### 🔹 Current Focus
+- Edge AI & embedded intelligence
+- High-performance industrial IoT
+- FPGA & hardware acceleration
 
-Industrial automation & control systems
-
-IoT systems architecture (MQTT, real-time communication)
-
-Advanced PCB design (multi-layer, signal integrity, power optimization)
-
-Sensor fusion & intelligent systems
-
-AI integration in embedded and industrial environments
-
-🌱 Currently Exploring
-
-Advanced edge AI for embedded devices
-
-High-performance PCB architectures
-
-Real-time systems optimization
-
-FPGA and hardware acceleration
