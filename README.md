@@ -13,9 +13,7 @@ I design and develop **intelligent, high-performance hardware-software systems**
 |-------------------|------------------------------------|
 | ![STM32](https://img.shields.io/badge/STM32-0072C6?style=flat&logo=stmicroelectronics&logoColor=white) | Industrial automation, RTOS       |
 | ![ESP32](https://img.shields.io/badge/ESP32-EA4335?style=flat&logo=espressif&logoColor=white) | IoT, Wireless communication       |
-| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | Prototyping, Education             |
 | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) | Edge AI, Computer Vision           |
-| ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white) | AI at the Edge, Robotics           |
 
 ---
 
@@ -25,8 +23,6 @@ I design and develop **intelligent, high-performance hardware-software systems**
 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | Firmware, Real-time systems         |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | Embedded systems, OOP              |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | AI/ML, Automation scripts           |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | Safe embedded systems               |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | Linux automation                    |
 
 ---
 
