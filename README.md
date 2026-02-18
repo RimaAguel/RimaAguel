@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**RimaAguel/RimaAguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Rima Aguel, an Electrical & Automation Engineer specialized in embedded systems, industrial automation, IoT architectures, PCB design, and AI-driven systems.
 
-Here are some ideas to get you started:
+I design and develop intelligent hardware–software solutions, combining electronics, control systems, and machine learning to build efficient, reliable, and scalable technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I Do
+
+Embedded systems development (STM32, ESP32, ARM-based MCUs)
+
+Industrial automation & control systems
+
+IoT systems architecture (MQTT, real-time communication)
+
+Advanced PCB design (multi-layer, signal integrity, power optimization)
+
+Sensor fusion & intelligent systems
+
+AI integration in embedded and industrial environments
+
+🌱 Currently Exploring
+
+Advanced edge AI for embedded devices
+
+High-performance PCB architectures
+
+Real-time systems optimization
+
+FPGA and hardware acceleration
