@@ -8,46 +8,51 @@ I design and develop **intelligent, high-performance hardware-software systems**
 
 ## 🛠 Skills & Tools
 
-### Microcontrollers
-![STM32](https://img.shields.io/badge/STM32-0072C6?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-EA4335?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Atmel ARM](https://img.shields.io/badge/Atmel%20ARM-0052CC?style=for-the-badge&logo=arm&logoColor=white)
+### Microcontrollers & SBCs
+| **Platform**       | **Usage**                          |
+|-------------------|------------------------------------|
+| ![STM32](https://img.shields.io/badge/STM32-0072C6?style=flat&logo=stmicroelectronics&logoColor=white) | Industrial automation, RTOS       |
+| ![ESP32](https://img.shields.io/badge/ESP32-EA4335?style=flat&logo=espressif&logoColor=white) | IoT, Wireless communication       |
+| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | Prototyping, Education             |
+| ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) | Edge AI, Computer Vision           |
+| ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white) | AI at the Edge, Robotics           |
 
-### Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### Programming & Scripting
+| **Language**        | **Application**                     |
+|-------------------|-------------------------------------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | Firmware, Real-time systems         |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | Embedded systems, OOP              |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | AI/ML, Automation scripts           |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | Safe embedded systems               |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | Linux automation                    |
+
+---
 
 ### Tools & Protocols
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-FFB600?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-00AEEF?style=for-the-badge)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0072C6?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-0ABF53?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-4CAF50?style=for-the-badge)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+| **Tool/Protocol**   | **Purpose**                         |
+|-------------------|-------------------------------------|
+| ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-FFB600?style=flat) | Professional PCB design             |
+| ![PlatformIO](https://img.shields.io/badge/PlatformIO-2C3E50?style=flat&logo=platformio&logoColor=white) | Embedded development ecosystem      |
+| ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat) | IoT communication protocol          |
+| ![Modbus](https://img.shields.io/badge/Modbus-000000?style=flat) | Industrial automation               |
 
 ---
 
-## 📂 Projects
-- **Embedded IoT Sensor Hub** – Multi-sensor fusion system for industrial monitoring (STM32 + MQTT + AI analytics)  
-- **Smart Power Tool Controller** – Brushless motor control with embedded AI for torque & vibration optimization  
-- **PCB Design Automation Toolkit** – Scripts and templates for high-speed, multi-layer PCB design  
+### AI & Cloud Integration
+| **Technology**      | **Use Case**                        |
+|-------------------|-------------------------------------|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | Edge AI deployment                  |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | Custom AI model training            |
+| ![AWS IoT](https://img.shields.io/badge/AWS%20IoT-232F3E?style=flat&logo=amazonaws&logoColor=white) | Cloud-connected IoT systems         |
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Edge AI** deployment on microcontrollers  
-- FPGA & hardware acceleration for real-time systems  
-- Autonomous industrial IoT systems  
+### Visualization & UI
+| **Tool**            | **Application**                     |
+|-------------------|-------------------------------------|
+| ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) | Embedded GUI development             |
+| ![TouchGFX](https://img.shields.io/badge/TouchGFX-007396?style=flat) | High-performance embedded UIs       |
 
 ---
-
-## 📫 Contact
-- Email: rima.aguel@example.com  
-- LinkedIn: [linkedin.com/in/rimaaguel](https://www.linkedin.com/in/rimaaguel)  
-- GitHub: [github.com/RimaAguel](https://github.com/RimaAguel)
