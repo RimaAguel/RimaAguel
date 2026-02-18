@@ -13,7 +13,7 @@
 
 <!-- Email -->
 <p align="center">
-  ✉️ Feel free to reach me at <a href="mailto:rima.aguel@gmail.com">rima.aguel@gmail.com</a>
+   You can contact me at  <a href="mailto:rima.aguel@gmail.com">rima.aguel@gmail.com</a>
 </p>
 
 ---
