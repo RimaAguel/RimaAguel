@@ -4,7 +4,6 @@
 | **Tool** | **Application** |
 |----------|-----------------|
 | ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white) | Professional PCB Design & Layout |
-| ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad&logoColor=white) | PCB Design & Schematic Capture |
 | ![LTspice](https://img.shields.io/badge/LTspice-900000?style=flat) | Analog & Power Electronics Simulation |
 
 ---
